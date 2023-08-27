@@ -1,0 +1,198 @@
+Sheet 1 - Ahmed's Route
+Objective: 46
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(9,9) Load(272.0) -> 2 Time(17,17) Load(806.0) -> 3 Time(42,42) Load(1288.0) -> 0 Time(53,53) Load(1288.0)
+Time of the route: 53min
+Load of the route: 1288.0
+
+Total time of all routes: 53min
+Calculation time (in seconds): 1.0004587173461914
+
+Sheet 1 - Hardit's Route
+Objective: 309
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(30,30) Load(21.0) -> 2 Time(51,51) Load(53.0) -> 3 Time(110,110) Load(109.0) -> 4 Time(121,121) Load(145.0) -> 5 Time(131,131) Load(200.0) -> 6 Time(150,150) Load(444.0) -> 7 Time(161,161) Load(457.0) -> 8 Time(168,168) Load(569.0) -> 9 Time(192,192) Load(691.0) -> 10 Time(224,224) Load(881.0) -> 11 Time(251,251) Load(887.0) -> 12 Time(263,263) Load(1093.0) -> 13 Time(327,327) Load(1221.0) -> 14 Time(340,340) Load(1278.0) -> 15 Time(350,350) Load(1291.0) -> 0 Time(384,384) Load(1291.0)
+Time of the route: 384min
+Load of the route: 1291.0
+
+Total time of all routes: 384min
+Calculation time (in seconds): 0.9999651908874512
+
+Sheet 1 - Malik's Route
+Objective: 146
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(21,21) Load(10.0) -> 2 Time(34,34) Load(34.0) -> 3 Time(48,48) Load(66.0) -> 4 Time(64,64) Load(154.0) -> 5 Time(85,85) Load(204.0) -> 6 Time(93,93) Load(215.0) -> 7 Time(110,110) Load(669.0) -> 8 Time(129,129) Load(730.0) -> 9 Time(142,142) Load(973.0) -> 10 Time(151,151) Load(982.0) -> 11 Time(164,164) Load(1022.0) -> 12 Time(182,182) Load(1052.0) -> 13 Time(188,188) Load(1239.0) -> 14 Time(203,203) Load(1297.0) -> 0 Time(215,215) Load(1297.0)
+Time of the route: 215min
+Load of the route: 1297.0
+
+Total time of all routes: 215min
+Calculation time (in seconds): 0.9999656677246094
+
+Sheet 1 - Tai's Route
+Objective: 78
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(8,8) Load(80.0) -> 2 Time(13,13) Load(180.0) -> 3 Time(38,38) Load(368.0) -> 4 Time(56,56) Load(738.0) -> 5 Time(63,63) Load(960.0) -> 6 Time(88,88) Load(1004.0) -> 7 Time(102,102) Load(1276.0) -> 0 Time(110,110) Load(1276.0)
+Time of the route: 110min
+Load of the route: 1276.0
+
+Total time of all routes: 110min
+Calculation time (in seconds): 0.9993963241577148
+
+Sheet 3 CO13 Route
+Objective: 276
+Route for vehicle 0:
+0 Time(38,38) -> 1 Time(64,64) -> 2 Time(92,92) -> 3 Time(108,108) -> 4 Time(149,149) -> 5 Time(199,199) -> 6 Time(227,227) -> 7 Time(243,243) -> 8 Time(258,258) -> 9 Time(287,287) -> 10 Time(315,315) -> 11 Time(331,331) -> 12 Time(346,346) -> 13 Time(361,361) -> 14 Time(371,371) -> 15 Time(395,399) -> 16 Time(415,419) -> 17 Time(432,436) -> 18 Time(459,463) -> 19 Time(499,499) -> 0 Time(500,500)
+Time of the route: 500min
+
+Total time of all routes: 500min
+Calculation time (in seconds): 0.0074694156646728516
+
+Sheet 1 - Alex's Route
+Objective: 157
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(22,22) Load(28.0) -> 2 Time(31,31) Load(229.0) -> 3 Time(43,43) Load(251.0) -> 4 Time(57,57) Load(296.0) -> 5 Time(87,87) Load(310.0) -> 6 Time(99,99) Load(510.0) -> 7 Time(125,125) Load(592.0) -> 8 Time(138,138) Load(626.0) -> 9 Time(153,153) Load(714.0) -> 10 Time(165,165) Load(1208.0) -> 11 Time(183,183) Load(1253.0) -> 12 Time(210,210) Load(1264.0) -> 13 Time(222,222) Load(1264.0)
+Time of the route: 222min
+Load of the route: 1264.0
+
+Total time of all routes: 222min
+Calculation time (in seconds): 1.0004684925079346
+
+Sheet 1 - Neil's Route
+Objective: 114
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(16,16) Load(480.0) -> 2 Time(34,34) Load(582.0) -> 3 Time(42,42) Load(742.0) -> 4 Time(58,58) Load(844.0) -> 5 Time(75,75) Load(904.0) -> 6 Time(92,92) Load(994.0) -> 7 Time(110,110) Load(1284.0) -> 8 Time(150,150) Load(1284.0)
+Time of the route: 150min
+Load of the route: 1284.0
+
+Total time of all routes: 150min
+Calculation time (in seconds): 1.0004298686981201
+
+Sheet 1 - Paul's Route
+Objective: 147
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(24,24) Load(15.0) -> 2 Time(46,46) Load(28.0) -> 3 Time(68,68) Load(552.0) -> 4 Time(76,76) Load(568.0) -> 5 Time(84,84) Load(746.0) -> 6 Time(97,97) Load(894.0) -> 7 Time(121,121) Load(915.0) -> 8 Time(132,132) Load(1141.0) -> 9 Time(144,144) Load(1168.0) -> 10 Time(161,161) Load(1408.0) -> 11 Time(198,198) Load(1455.0) -> 12 Time(205,205) Load(1455.0)
+Time of the route: 205min
+Load of the route: 1455.0
+
+Total time of all routes: 205min
+Calculation time (in seconds): 0.9999330043792725
+
+Sheet 1 - Rhys's Route
+Objective: 170
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(13,13) Load(69.0) -> 2 Time(32,32) Load(258.0) -> 3 Time(54,54) Load(292.0) -> 4 Time(76,76) Load(328.0) -> 5 Time(88,88) Load(348.0) -> 6 Time(95,95) Load(490.0) -> 7 Time(110,110) Load(589.0) -> 8 Time(120,120) Load(701.0) -> 9 Time(137,137) Load(883.0) -> 10 Time(145,145) Load(923.0) -> 11 Time(156,156) Load(953.0) -> 12 Time(171,171) Load(993.0) -> 13 Time(181,181) Load(1073.0) -> 14 Time(193,193) Load(1265.0) -> 15 Time(203,203) Load(1288.0) -> 16 Time(211,211) Load(1362.0) -> 17 Time(225,225) Load(1462.0) -> 18 Time(259,259) Load(1462.0)
+Time of the route: 259min
+Load of the route: 1462.0
+
+Total time of all routes: 259min
+Calculation time (in seconds): 1.0004627704620361
+
+Sheet 1 - Wayne's Route
+Objective: 124
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(7,7) Load(92.0) -> 2 Time(22,22) Load(500.0) -> 3 Time(37,37) Load(1182.0) -> 4 Time(65,65) Load(1215.0) -> 5 Time(75,75) Load(1289.0) -> 6 Time(105,105) Load(1312.0) -> 7 Time(134,134) Load(1400.0) -> 8 Time(153,153) Load(1419.0) -> 9 Time(167,167) Load(1419.0)
+Time of the route: 167min
+Load of the route: 1419.0
+
+Total time of all routes: 167min
+Calculation time (in seconds): 1.0004658699035645
+
+Sheet 2 Route
+Objective: 102
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 1 Time(9,9) Load(272.0) -> 2 Time(31,31) Load(323.0) -> 3 Time(49,49) Load(403.0) -> 4 Time(70,70) Load(447.0) -> 5 Time(96,96) Load(788.0) -> 6 Time(116,116) Load(882.0) -> 7 Time(144,144) Load(1067.0) -> 8 Time(161,161) Load(1178.0) -> 9 Time(183,183) Load(1194.0) -> 10 Time(209,209) Load(1238.0) -> 11 Time(241,241) Load(1283.0) -> 12 Time(268,268) Load(1330.0) -> 13 Time(285,285) Load(1330.0)
+Time of the route: 285min
+Load of the route: 1330.0
+
+Total time of all routes: 285min
+Calculation time (in seconds): 1.0004310607910156
+
+Sheet 1 - Akash's Route
+Objective: 395
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 27 Time(521,521) Load(0.0)
+Time of the route: 521min
+Load of the route: 0.0
+
+Route for vehicle 1:
+0 Time(0,0) Load(0.0) -> 27 Time(521,521) Load(0.0)
+Time of the route: 521min
+Load of the route: 0.0
+
+Route for vehicle 2:
+0 Time(0,0) Load(0.0) -> 27 Time(521,521) Load(0.0)
+Time of the route: 521min
+Load of the route: 0.0
+
+Route for vehicle 3:
+0 Time(0,0) Load(0.0) -> 1 Time(12,12) Load(339.0) -> 2 Time(60,60) Load(384.0) -> 3 Time(89,89) Load(829.0) -> 4 Time(103,103) Load(874.0) -> 5 Time(113,113) Load(894.0) -> 6 Time(131,131) Load(931.0) -> 7 Time(146,146) Load(1289.0) -> 8 Time(159,159) Load(1485.0) -> 9 Time(169,169) Load(1506.0) -> 10 Time(181,181) Load(1523.0) -> 11 Time(223,223) Load(1693.0) -> 12 Time(247,247) Load(1843.0) -> 13 Time(256,256) Load(1890.0) -> 14 Time(272,272) Load(1962.0) -> 15 Time(289,289) Load(2017.0) -> 16 Time(300,300) Load(2111.0) -> 17 Time(331,331) Load(2543.0) -> 18 Time(351,351) Load(2570.0) -> 19 Time(365,365) Load(2590.0) -> 20 Time(379,379) Load(2700.0) -> 21 Time(391,391) Load(2820.0) -> 22 Time(421,421) Load(2829.0) -> 23 Time(432,432) Load(2851.0) -> 24 Time(448,448) Load(2883.0) -> 25 Time(458,458) Load(2889.0) -> 26 Time(492,492) Load(2985.0) -> 27 Time(521,521) Load(2985.0)
+Time of the route: 521min
+Load of the route: 2985.0
+
+Total time of all routes: 2084min
+Calculation time (in seconds): 1.0004613399505615
+
+Sheet 1 John's Route
+Objective: 307
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 39 Time(494,494) Load(0.0)
+Time of the route: 494min
+Load of the route: 0.0
+
+Route for vehicle 1:
+0 Time(0,0) Load(0.0) -> 39 Time(494,494) Load(0.0)
+Time of the route: 494min
+Load of the route: 0.0
+
+Route for vehicle 2:
+0 Time(0,0) Load(0.0) -> 39 Time(494,494) Load(0.0)
+Time of the route: 494min
+Load of the route: 0.0
+
+Route for vehicle 3:
+0 Time(0,0) Load(0.0) -> 39 Time(494,494) Load(0.0)
+Time of the route: 494min
+Load of the route: 0.0
+
+Route for vehicle 4:
+0 Time(0,0) Load(0.0) -> 39 Time(494,494) Load(0.0)
+Time of the route: 494min
+Load of the route: 0.0
+
+Route for vehicle 5:
+0 Time(0,0) Load(0.0) -> 39 Time(494,494) Load(0.0)
+Time of the route: 494min
+Load of the route: 0.0
+
+Route for vehicle 6:
+0 Time(0,0) Load(0.0) -> 1 Time(11,11) Load(80.0) -> 2 Time(22,22) Load(102.0) -> 3 Time(36,36) Load(184.0) -> 4 Time(45,45) Load(229.0) -> 5 Time(55,55) Load(241.0) -> 6 Time(71,71) Load(262.0) -> 7 Time(78,78) Load(268.0) -> 8 Time(85,85) Load(301.0) -> 9 Time(96,96) Load(462.0) -> 10 Time(107,107) Load(503.0) -> 11 Time(118,118) Load(544.0) -> 12 Time(133,133) Load(558.0) -> 13 Time(142,142) Load(583.0) -> 14 Time(162,162) Load(613.0) -> 15 Time(170,170) Load(753.0) -> 16 Time(180,180) Load(760.0) -> 17 Time(189,189) Load(768.0) -> 18 Time(203,203) Load(782.0) -> 19 Time(218,218) Load(854.0) -> 20 Time(225,225) Load(866.0) -> 21 Time(235,235) Load(884.0) -> 22 Time(248,248) Load(916.0) -> 23 Time(253,253) Load(946.0) -> 24 Time(263,263) Load(1076.0) -> 25 Time(281,281) Load(1099.0) -> 26 Time(298,298) Load(1151.0) -> 27 Time(305,305) Load(1163.0) -> 28 Time(319,319) Load(1175.0) -> 29 Time(331,331) Load(1193.0) -> 30 Time(343,343) Load(1248.0) -> 31 Time(356,356) Load(1270.0) -> 32 Time(361,361) Load(1282.0) -> 33 Time(371,371) Load(1307.0) -> 34 Time(383,383) Load(1322.0) -> 35 Time(393,393) Load(1338.0) -> 36 Time(408,408) Load(1408.0) -> 37 Time(433,433) Load(1422.0) -> 38 Time(441,441) Load(1432.0) -> 39 Time(494,494) Load(1432.0)
+Time of the route: 494min
+Load of the route: 1432.0
+
+Total time of all routes: 3458min
+Calculation time (in seconds): 1.0004308223724365
+
+Sheet 1 - Akash's Route
+Objective: 395
+Route for vehicle 0:
+0 Time(0,0) Load(0.0) -> 27 Time(521,521) Load(0.0)
+Time of the route: 521min
+Load of the route: 0.0
+
+Route for vehicle 1:
+0 Time(0,0) Load(0.0) -> 27 Time(521,521) Load(0.0)
+Time of the route: 521min
+Load of the route: 0.0
+
+Route for vehicle 2:
+0 Time(0,0) Load(0.0) -> 27 Time(521,521) Load(0.0)
+Time of the route: 521min
+Load of the route: 0.0
+
+Route for vehicle 3:
+0 Time(0,0) Load(0.0) -> 1 Time(12,12) Load(339.0) -> 2 Time(60,60) Load(384.0) -> 3 Time(89,89) Load(829.0) -> 4 Time(103,103) Load(874.0) -> 5 Time(113,113) Load(894.0) -> 6 Time(131,131) Load(931.0) -> 7 Time(146,146) Load(1289.0) -> 8 Time(159,159) Load(1485.0) -> 9 Time(169,169) Load(1506.0) -> 10 Time(181,181) Load(1523.0) -> 11 Time(223,223) Load(1693.0) -> 12 Time(247,247) Load(1843.0) -> 13 Time(256,256) Load(1890.0) -> 14 Time(272,272) Load(1962.0) -> 15 Time(289,289) Load(2017.0) -> 16 Time(300,300) Load(2111.0) -> 17 Time(331,331) Load(2543.0) -> 18 Time(351,351) Load(2570.0) -> 19 Time(365,365) Load(2590.0) -> 20 Time(379,379) Load(2700.0) -> 21 Time(391,391) Load(2820.0) -> 22 Time(421,421) Load(2829.0) -> 23 Time(432,432) Load(2851.0) -> 24 Time(448,448) Load(2883.0) -> 25 Time(458,458) Load(2889.0) -> 26 Time(492,492) Load(2985.0) -> 27 Time(521,521) Load(2985.0)
+Time of the route: 521min
+Load of the route: 2985.0
+
+Total time of all routes: 2084min
+Calculation time (in seconds): 1.0004308223724365

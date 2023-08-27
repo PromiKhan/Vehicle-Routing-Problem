@@ -1,0 +1,260 @@
+﻿#,Name,Capacity,Arrival time min,Arrival time max,Service time,Address,New Arrival time min,New Arrival time max
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #227677 to HILAL MEAT(HILAL MEAT) ref #143501,272,7:09,7:09,0,"4/7 Birmingham Ave, Villawood NSW 2163, Australia",7:09,7:09
+3,Delivery #227678 to KAHIL MEATS PTY LTD(KAHIL MEATS PTY LTD) ref #143592,267,7:17,7:17,0,"10/753 Hume Hwy, Bass Hill NSW 2197, Australia",7:17,7:17
+4,Delivery #234878 to KAHIL MEATS PTY LTD(KAHIL MEATS PTY LTD) ref #143592,267,7:17,7:17,5,"10/753 Hume Hwy, Bass Hill NSW 2197, Australia",7:17,7:17
+5,Delivery #227685 to ALL THAT MEAT WHOLESALE(ALL THAT MEAT WHOLESALE) ref #143445,241,7:37,7:37,0,"42 Parramatta Rd, Lidcombe NSW 2141, Australia",7:42,7:42
+6,Delivery #234885 to ALL THAT MEAT WHOLESALE(ALL THAT MEAT WHOLESALE) ref #143445,241,7:37,7:37,0,"42 Parramatta Rd, Lidcombe NSW 2141, Australia",7:42,7:42
+7,Depot,,7:50,7:50,0,"22 George Young St, Regents Park NSW 2143, Australia",7:50,7:50
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234848 to ALBARAKA BUTCHERY BANKSTOWN(ALBARAKA BUTCHERY BANKSTOWN) ref #3,339,7:10,7:10,5,"19 North Terrace, Bankstown NSW 2200, Australia",7:12,7:12
+3,Delivery #234961 to PANORAMA HOUSE(PANORAMA HOUSE),45,8:00,8:00,5,"Panorama House, 811 Princes Hwy, Maddens Plains NSW 2508, Australia",8:00,8:00
+4,Delivery #227656 to LAKELINE BUTCHERY(LAKELINE BUTCHERY) ref #143512,445,8:32,8:32,0,"3/58 Lakeside Dr, Kanahooka NSW 2530, Australia",8:29,8:29
+5,Delivery #234957 to ALBION PARK RAIL(ALBION PARK RAIL),45,8:46,8:46,5,"Warrigal Care, 2 Pine St, Albion Park Rail NSW 2527, Australia",8:43,8:43
+6,Delivery #234958 to WARRIGAL MT TERRY(WARRIGAL MT TERRY),20,8:57,8:57,5,"95 Daintree Dr, Albion Park NSW 2527, Australia",8:53,8:53
+7,Delivery #234964 to VESPA PIZZERIA(VESPA PIZZERIA),37,9:13,9:13,5,"1/115 Shellharbour Rd, Warilla NSW 2528, Australia",9:11,9:11
+8,Delivery #234854 to COUNTRY GROCER WARRAWONG(COUNTRY GROCER WARRAWONG) ref #143599,179,9:28,9:28,5,"Cowper St & King St, Warrawong NSW 2502, Australia",9:26,9:26
+9,Delivery #227654 to COUNTRY GROCER WARRAWONG(COUNTRY GROCER WARRAWONG) ref #143599,179,9:33,9:33,0,"Cowper St & King St, Warrawong NSW 2502, Australia",9:26,9:26
+10,Delivery #234855 to HASTIE'S TOPTASTE MEATS PTY LTD(HASTIE'S TOPTASTE MEATS PTY LTD) ref #143582,98,9:41,9:41,5,"89-91 Auburn St, Wollongong NSW 2500, Australia",9:39,9:39
+11,Delivery #227655 to HASTIE'S TOPTASTE MEATS PTY LTD(HASTIE'S TOPTASTE MEATS PTY LTD) ref #143582,98,9:46,9:46,0,"89-91 Auburn St, Wollongong NSW 2500, Australia",9:39,9:39
+12,Delivery #234963 to ILLAWARRA STEELERS(ILLAWARRA STEELERS),21,9:49,9:49,5,"Stellers Club, 1 Burelli St, Wollongong NSW 2500, Australia",9:49,9:49
+13,Delivery #234966 to WISEMAN PARK BOWLING(WISEMAN PARK BOWLING),17,9:59,9:59,5,"192 Gipps Rd, Gwynneville NSW 2500, Australia",10:01,10:01
+14,Delivery #234875 to  BUTCHERS HUB( BUTCHERS HUB) ref #143494,85,10:44,10:44,5,"Shop 2/9 Margaret St, Picton NSW 2571, Australia",10:43,10:43
+15,Delivery #227675 to  BUTCHERS HUB( BUTCHERS HUB) ref #143494,85,10:49,10:49,0,"Shop 2/9 Margaret St, Picton NSW 2571, Australia",10:43,10:43
+16,Delivery #227681 to OSSEWA MEATS(OSSEWA MEATS) ref #143568,75,11:10,11:10,0,"5/81 Argyle St, Camden NSW 2570, Australia",11:07,11:07
+17,Delivery #234881 to OSSEWA MEATS(OSSEWA MEATS) ref #143568,75,11:10,11:10,5,"5/81 Argyle St, Camden NSW 2570, Australia",11:07,11:07
+18,Delivery #234981 to ESTIA CAMDEN(ESTIA CAMDEN),47,11:18,11:18,5,"82 Old Hume Hwy, Camden NSW 2570, Australia",11:16,11:16
+19,Delivery #227680 to MOUNT ANNAN QUALITY MEATS(MOUNT ANNAN QUALITY MEATS) ref #143563,36,11:31,11:31,0,"1 Raintree Way, Mount Annan NSW 2567, Australia",11:32,11:32
+20,Delivery #234880 to MOUNT ANNAN QUALITY MEATS(MOUNT ANNAN QUALITY MEATS) ref #143563,36,11:31,11:31,5,"1 Raintree Way, Mount Annan NSW 2567, Australia",11:32,11:32
+21,Delivery #234838 to A STEAK IN THE GAME(A STEAK IN THE GAME) ref #143480,55,11:45,11:45,5,"100 The Pkwy, Bradbury NSW 2560, Australia",11:49,11:49
+22,Delivery #234839 to AL ZAEEM CAMPBELLTOWN(AL ZAEEM CAMPBELLTOWN) ref #143588,94,11:54,11:54,5,"Level 8, Suite 2/179 Queen St, Campbelltown NSW 2560, Australia",12:00,12:00
+23,Delivery #234879 to M AND C ROPER(M AND C ROPER) ref #143497,216,12:22,12:22,5,"Bringelly Rd, Bringelly NSW 2556, Australia",12:31,12:31
+24,Delivery #227679 to M AND C ROPER(M AND C ROPER) ref #143497,216,12:27,12:27,0,"Bringelly Rd, Bringelly NSW 2556, Australia",12:31,12:31
+25,Delivery #234980 to BLUE HILLS VILLAGE(BLUE HILLS VILLAGE),27,12:42,12:42,5,"25 Tulich Ave, Prestons NSW 2170, Australia",12:51,12:51
+26,Delivery #227683 to SAYED BUTCHERY(SAYED BUTCHERY) ref #143510,10,12:56,12:56,0,"2/54 Hill Rd, Lurnea NSW 2170, Australia",13:05,13:05
+27,Delivery #234883 to SAYED BUTCHERY(SAYED BUTCHERY) ref #143510,10,12:56,12:56,5,"2/54 Hill Rd, Lurnea NSW 2170, Australia",13:05,13:05
+28,Delivery #234840 to MEATHAUS(MEATHAUS) ref #143543,110,13:09,13:09,5,"Shop 16/42 Stockton Ave, Moorebank NSW 2170, Australia",13:19,13:19
+29,Delivery #234851 to WHOLEFARMS PTY LTD(WHOLEFARMS PTY LTD) ref #143522,120,13:20,13:20,5,"479 Henry Lawson Dr, Milperra NSW 2214, Australia",13:31,13:31
+30,Delivery #234939 to CHICKEY HAMPSHIRE(CHICKEY HAMPSHIRE),9,13:48,13:48,5,"36 Anderson St, Alexandria NSW 2015, Australia",14:01,14:01
+31,Delivery #234945 to CAFE GIULIA FBU(CAFE GIULIA FBU),22,13:56,13:56,5,"92 Abercrombie St, Chippendale NSW 2008, Australia",14:12,14:12
+32,Delivery #234994 to JAMES MILSON VILLAGE(JAMES MILSON VILLAGE),32,14:09,14:09,5,"James Milson Village, 4 Clark Rd, North Sydney NSW 2060, Australia",14:28,14:28
+33,Delivery #234999 to EIGHTY ATE CAFE(EIGHTY ATE CAFE),6,14:17,14:17,5,"88 West St, North Sydney NSW 2060, Australia",14:38,14:38
+34,Delivery #234860 to BUNGAREE BUTCHERS(BUNGAREE BUTCHERS) ref #143573,48,14:52,14:52,5,"22 Bungaree Rd, Toongabbie NSW 2146, Australia",15:12,15:12
+35,Delivery #227660 to BUNGAREE BUTCHERS(BUNGAREE BUTCHERS) ref #143573,48,14:57,14:57,0,"22 Bungaree Rd, Toongabbie NSW 2146, Australia",15:12,15:12
+36,"Whalan NSW 2770, Australia",,15:18,15:18,0,"Whalan NSW 2770, Australia",15:41,15:41
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234990 to WEST RYDE HOTEL(WEST RYDE HOTEL),28,7:17,7:17,5,"West Ryde Hotel, 1021 Victoria Rd, West Ryde NSW 2114, Australia",7:22,7:22
+3,Delivery #234916 to S AND Y MEAT TRADING PTY LTD(S AND Y MEAT TRADING PTY LTD) ref #143457,201,7:27,7:27,5,"3/12 Hillview Rd, Eastwood NSW 2122, Australia",7:31,7:31
+4,Delivery #234987 to LEISURE LEA GARDENS(LEISURE LEA GARDENS),22,7:39,7:39,5,"Leisure Lea Gardens, 201-207 Epping Rd, Marsfield NSW 2122, Australia",7:43,7:43
+5,Delivery #234911 to CAMPBELLS SUPERIOR MEATS PTY LTD(CAMPBELLS SUPERIOR MEATS PTY LTD) ref #143525,45,7:52,7:52,5,"Kendall St, West Pymble NSW 2073, Australia",7:57,7:57
+6,Delivery #234998 to MX MONA VALE FBU(MX MONA VALE FBU),14,8:22,8:22,5,"Shop 4/1 Waratah St, Mona Vale NSW 2104, Australia",8:27,8:27
+7,Delivery #234995 to MEXICANO FBU(MEXICANO FBU),200,8:33,8:33,5,"209 Ocean St, Narrabeen NSW 2101, Australia",8:39,8:39
+8,Delivery #234888 to CASTLE COVE BUTCHER SHOP(CASTLE COVE BUTCHER SHOP) ref #143453,41,8:58,8:58,5,"14A Deepwater Rd, Castle Cove NSW 2069, Australia",9:05,9:05
+9,Delivery #227688 to CASTLE COVE BUTCHER SHOP(CASTLE COVE BUTCHER SHOP) ref #143453,41,9:03,9:03,0,"14A Deepwater Rd, Castle Cove NSW 2069, Australia",9:05,9:05
+10,Delivery #234910 to 1 TON NOODLE(1 TON NOODLE) ref #143600,34,9:10,9:10,5,"p1/436 Victoria Ave, Chatswood NSW 2067, Australia",9:18,9:18
+11,Delivery #234895 to SPRINGBOK DELIGHTS PTY LTD(SPRINGBOK DELIGHTS PTY LTD) ref #143481,44,9:22,9:22,5,"656 Mowbray Rd W, Lane Cove North NSW 2066, Australia",9:33,9:33
+12,Delivery #227695 to SPRINGBOK DELIGHTS PTY LTD(SPRINGBOK DELIGHTS PTY LTD) ref #143481,44,9:27,9:27,0,"656 Mowbray Rd W, Lane Cove North NSW 2066, Australia",9:33,9:33
+13,Delivery #234891 to GOWA FOODS(GOWA FOODS) ref #143597,247,9:33,9:33,5,"25 Hotham Parade, Artarmon NSW 2064, Australia",9:45,9:45
+14,Delivery #227691 to GOWA FOODS(GOWA FOODS) ref #143597,247,9:38,9:38,0,"25 Hotham Parade, Artarmon NSW 2064, Australia",9:45,9:45
+15,Delivery #234997 to THAI KANTEEN(THAI KANTEEN),45,9:47,9:47,5,"541 Military Rd, Mosman NSW 2088, Australia",10:03,10:03
+16,Delivery #234935 to SEALANES NSW(SEALANES NSW),11,10:12,10:12,5,"1511 Botany Rd, Banksmeadow NSW 2019, Australia",10:30,10:30
+17,"Hillsdale NSW 2036, Australia",,10:22,10:22,0,"Hillsdale NSW 2036, Australia",10:42,10:42
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234979 to PENNANT HILLS GOLF CLUB(PENNANT HILLS GOLF CLUB),21,7:24,7:24,5,"Copeland Rd, Beecroft NSW 2119, Australia",7:30,7:30
+3,Delivery #234909 to TENDER VALUE MEATS HORNSBY(TENDER VALUE MEATS HORNSBY) ref #143449,32,7:41,7:41,5,"12 Florence St, Hornsby NSW 2077, Australia",7:51,7:51
+4,Delivery #234920 to TUMBI WHOLESALE MEATS(TUMBI WHOLESALE MEATS) ref #143570,56,8:44,8:44,5,"2/11 Tumbi Creek Rd, Berkeley Vale NSW 2261, Australia",8:50,8:50
+5,Delivery #234912 to CRESTHAVEN MEATS(CRESTHAVEN MEATS) ref #143550,36,8:56,8:56,5,"161 Cresthaven Ave, Bateau Bay NSW 2261, Australia",9:01,9:01
+6,Delivery #234922 to WATOS FAMILY BUTCHERY(WATOS FAMILY BUTCHERY) ref #143535,55,9:08,9:08,5,"471 The Entrance Rd, Long Jetty NSW 2261, Australia",9:11,9:11
+7,Delivery #234914 to MADHOUSE BEEF JERKY PTY LTD(MADHOUSE BEEF JERKY PTY LTD) ref #143513,244,9:29,9:29,5,"1 Geraldton Cl, Norah Head NSW 2263, Australia",9:30,9:30
+8,Delivery #234956 to COAST HOTEL(COAST HOTEL),13,9:40,9:40,5,"Budgewoi Inn, 169 Budgewoi Rd, Budgewoi NSW 2262, Australia",9:41,9:41
+9,Delivery #227523 to COAST HOTEL(COAST HOTEL),0,9:45,9:45,0,"Budgewoi Inn, 169 Budgewoi Rd, Budgewoi NSW 2262, Australia",9:41,9:41
+10,Delivery #234918 to STOCKADE MEATS(STOCKADE MEATS) ref #143526,112,9:47,9:47,5,"75 Scenic Dr, Budgewoi NSW 2262, Australia",9:48,9:48
+11,Delivery #234913 to GQM -GWANDALAN QUALITY MEATS(GQM -GWANDALAN QUALITY MEATS) ref #143541,122,10:10,10:10,5,"67 Gamban Rd, Gwandalan NSW 2259, Australia",10:12,10:12
+12,Delivery #234915 to MOORES MEAT MARKET(MOORES MEAT MARKET) ref #143503,190,10:43,10:43,5,"81 Dora St, Morisset NSW 2264, Australia",10:44,10:44
+13,Delivery #234955 to PLATEAU FOOD WYONG(PLATEAU FOOD WYONG),6,11:11,11:11,5,"4 London Dr, Wyong NSW 2259, Australia",11:11,11:11
+14,Delivery #234917 to SAUSAGE MAN WYONG(SAUSAGE MAN WYONG) ref #143536,206,11:23,11:23,5,"18/34 Alison Rd, Wyong NSW 2259, Australia",11:23,11:23
+15,Delivery #234871 to GEORGES FINE MEATS(GEORGES FINE MEATS) ref #143538,64,12:31,12:31,5,"Shop 42/47 Shepherds Dr, Cherrybrook NSW 2126, Australia",12:27,12:27
+16,Delivery #227671 to GEORGES FINE MEATS(GEORGES FINE MEATS) ref #143538,64,12:36,12:36,0,"Shop 42/47 Shepherds Dr, Cherrybrook NSW 2126, Australia",12:27,12:27
+17,Delivery #234976 to CASH SIMON @ FEDELES(CASH SIMON @ FEDELES),5,12:44,12:44,0,"Dural NSW 2158, Australia",12:40,12:40
+18,Delivery #234974 to FEDELES AT DURAL(FEDELES AT DURAL),52,12:44,12:44,5,"Dural NSW 2158, Australia",12:40,12:40
+19,Delivery #234973 to OAC CASTLEHILL(OAC CASTLEHILL),13,12:55,12:55,5,"Aacacia Cottage Kindergarten, 569 Old Northern Rd, Glenhaven NSW 2156, Australia",12:50,12:50
+20,Depot,0,13:31,13:31,0,"22 George Young St, Regents Park NSW 2143, Australia",13:31,13:31
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #227687 to SYDNEY LAMBS PTY LTD(SYDNEY LAMBS PTY LTD) ref #143502,40,7:09,7:09,0,"38 Birnie Ave, Lidcombe NSW 2141, Australia",7:11,7:11
+3,Delivery #233675 to SYDNEY LAMBS PTY LTD(SYDNEY LAMBS PTY LTD) ref #143502,40,7:09,7:09,0,"38 Birnie Ave, Lidcombe NSW 2141, Australia",7:11,7:11
+4,Delivery #234943 to JESMOND BURWOOD(JESMOND BURWOOD),22,7:16,7:16,5,"23A-25 Grantham St, Burwood NSW 2134, Australia",7:22,7:22
+5,Delivery #234886 to LUCKY STAR BUTCHER(LUCKY STAR BUTCHER) ref #143489,41,7:27,7:27,5,"115A Great N Rd, Five Dock NSW 2046, Australia",7:36,7:36
+6,Delivery #227686 to LUCKY STAR BUTCHER(LUCKY STAR BUTCHER) ref #143489,41,7:32,7:32,0,"115A Great N Rd, Five Dock NSW 2046, Australia",7:36,7:36
+7,Delivery #234983 to THE PIQUANT KITCHEN(THE PIQUANT KITCHEN),45,7:33,7:33,5,"13 Ramsay Rd, Five Dock NSW 2046, Australia",7:45,7:45
+8,Delivery #234952 to MONTE RESTAURANT(MONTE RESTAURANT),12,7:43,7:43,5,"Level 1/256 Norton St, Leichhardt NSW 2040, Australia",7:55,7:55
+9,Delivery #234944 to COLOMBO HOUSE(COLOMBO HOUSE),21,7:54,7:54,5,"159 Enmore Rd, Enmore NSW 2042, Australia",8:11,8:11
+10,Delivery #234946 to OAC  ENMORE(OAC  ENMORE),6,8:02,8:02,5,"290 Edgeware Rd, Newtown NSW 2042, Australia",8:18,8:18
+11,Delivery #234947 to UNION HOTEL(UNION HOTEL),33,8:09,8:09,5,"576 King St, Newtown NSW 2042, Australia",8:25,8:25
+12,Delivery #234899 to FUMO MEATS(FUMO MEATS) ref #143484,161,8:18,8:18,5,"47/566 Gardeners Rd, Alexandria NSW 2015, Australia",8:36,8:36
+13,Delivery #234938 to BAKER & CO(BAKER & CO),41,8:27,8:27,5,"88 McEvoy St, Alexandria NSW 2015, Australia",8:47,8:47
+14,Delivery #234902 to ARDI'S BLOCK AND GRILL(ARDI'S BLOCK AND GRILL) ref #143455,41,8:36,8:36,5,"579 Crown St, Surry Hills NSW 2010, Australia",8:58,8:58
+15,Delivery #234941 to LE RENDEZ-VOUS FBU(LE RENDEZ-VOUS FBU),14,8:47,8:47,5,"65-71 Belmore Rd, Randwick NSW 2031, Australia",9:13,9:13
+16,Delivery #234940 to WARRANE COLLEGE(WARRANE COLLEGE),25,8:55,8:55,5,"N13/39 Barker St, Kingsford NSW 2032, Australia",9:22,9:22
+17,Delivery #234934 to MARK MORAN LITTLE BAY(MARK MORAN LITTLE BAY),30,9:11,9:11,5,"7-11 Brodie Ave, Little Bay NSW 2036, Australia",9:42,9:42
+18,Delivery #234937 to LONG BAY CSI(LONG BAY CSI),140,9:19,9:19,5,"Anzac Parade, Matraville NSW 2036, Australia",9:50,9:50
+19,Delivery #234942 to TOP CAT CATERING F.B(TOP CAT CATERING F.B),7,9:30,9:30,5,"Arthur Byrne Reserve, 1R Marine Parade, Maroubra NSW 2035, Australia",10:00,10:00
+20,Delivery #234930 to SOUTHERN CROSS AGED CARE(SOUTHERN CROSS AGED CARE),8,9:40,9:40,5,"39 Gregory St, South Coogee NSW 2034, Australia",10:09,10:09
+21,Delivery #234929 to CLOVELLY SOCIAL FBU(CLOVELLY SOCIAL FBU),14,9:52,9:52,5,"344 Clovelly Rd, Clovelly NSW 2031, Australia",10:23,10:23
+22,Delivery #234898 to FIELD TO FORK PTY LTD(FIELD TO FORK PTY LTD) ref #2,72,10:05,10:05,5,"75 Hall St, Bondi Beach NSW 2026, Australia",10:38,10:38
+23,Delivery #234931 to MACELLERIA BONDI(MACELLERIA BONDI),12,10:11,10:11,5,"g09/180 Campbell Parade, Bondi Beach NSW 2026, Australia",10:45,10:45
+24,Delivery #234927 to ONLY ABOUT CHILDREN ROSE BAY(ONLY ABOUT CHILDREN ROSE BAY),18,10:20,10:20,5,"70 Dover Rd, Rose Bay NSW 2029, Australia",10:55,10:55
+25,Delivery #234924 to NAVY CANTEENS HMAS WATSON(NAVY CANTEENS HMAS WATSON),32,10:30,10:30,5,"Cliff St, Watsons Bay NSW 2030, Australia",11:08,11:08
+26,Delivery #234923 to DOYLES RESTUARANT(DOYLES RESTUARANT),30,10:36,10:36,5,"11 Marine Parade, Watsons Bay NSW 2030, Australia",11:13,11:13
+27,Delivery #234926 to MARK MORAN VAUCLUSE(MARK MORAN VAUCLUSE),130,10:44,10:44,5,"Old South Head Rd, Vaucluse NSW 2030, Australia",11:23,11:23
+28,Delivery #234928 to JOZO - F.B(JOZO - F.B),23,10:58,10:58,5,"495 Oxford St, Paddington NSW 2021, Australia",11:41,11:41
+29,Delivery #234967 to *2:HMAS CANBERRA(*2:HMAS CANBERRA),52,11:10,11:10,5,"1 Cowper Wharf Roadway, Potts Point NSW 2011, Australia",11:58,11:58
+30,Delivery #234925 to NAVY CANTEENS CAFE 51(NAVY CANTEENS CAFE 51),12,11:17,11:17,5,"51 Cowper Wharf Roadway, Woolloomooloo NSW 2011, Australia",12:05,12:05
+31,Delivery #234933 to ZABOU KITCHEN(ZABOU KITCHEN),12,11:27,11:27,5,"99 York St, Sydney NSW 2000, Australia",12:19,12:19
+32,Delivery #234932 to CTA BUSINESS CLUB(CTA BUSINESS CLUB),18,11:34,11:34,5,"19 Martin Pl, Sydney NSW 2000, Australia",12:31,12:31
+33,Delivery #234896 to CAMPBELL MEAT MARKET(CAMPBELL MEAT MARKET) ref #143524,55,11:43,11:43,5,"14 Campbell St, Haymarket NSW 2000, Australia",12:43,12:43
+34,Delivery #234949 to TOMMY'S  GLEBE(TOMMY'S  GLEBE),22,11:52,11:52,5,"123 Glebe Point Rd, Glebe NSW 2037, Australia",12:56,12:56
+35,Delivery #234950 to DESCANSO FBU(DESCANSO FBU),12,11:57,11:57,5,"1/197 Glebe Point Rd, Glebe NSW 2037, Australia",13:01,13:01
+36,Delivery #234948 to NORTH ANNANDALE(NORTH ANNANDALE),25,12:06,12:06,5,"105 Johnston St, Annandale NSW 2038, Australia",13:11,13:11
+37,Delivery #234951 to *3:1947 KITCHEN & WINE FB(*3:1947 KITCHEN & WINE FB),15,12:14,12:14,5,"679 Darling St, Rozelle NSW 2039, Australia",13:23,13:23
+38,Delivery #234985 to PAC DRUMMOYNE(PAC DRUMMOYNE),16,12:24,12:24,5,"12-14 Clements St, Drummoyne NSW 2047, Australia",13:33,13:33
+39,Delivery #227692 to HUMMERSTON GOURMET MEATS  P/L(HUMMERSTON GOURMET MEATS  P/L) ref #143574,35,12:38,12:38,0,"225 Burns Bay Rd, Lane Cove NSW 2066, Australia",13:48,13:48
+40,Delivery #234892 to HUMMERSTON GOURMET MEATS  P/L(HUMMERSTON GOURMET MEATS  P/L) ref #143574,35,12:38,12:38,5,"225 Burns Bay Rd, Lane Cove NSW 2066, Australia",13:48,13:48
+41,Delivery #234989 to MATTIA FREGOLA FB(MATTIA FREGOLA FB),14,12:59,12:59,5,"5/15 Lamond Dr, Turramurra NSW 2074, Australia",14:13,14:13
+42,Delivery #234988 to CEDARWOOD CAFE(CEDARWOOD CAFE),10,13:07,13:07,5,"23 Coonanbarra Rd, Wahroonga NSW 2076, Australia",14:21,14:21
+43,"Ettalong Beach NSW 2257, Australia",,14:06,14:06,0,"Ettalong Beach NSW 2257, Australia",15:14,15:14
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234953 to KONGFUCIUS CAFE FB(KONGFUCIUS CAFE FB),10,7:16,7:16,5,"l2/171 Hawkesbury Rd, Westmead NSW 2145, Australia",7:21,7:21
+3,Delivery #233742 to UPA MELROSE(UPA MELROSE),12,7:27,7:27,0,"Jacaranda Lodge, 123-157 Bungaree Rd, Pendle Hill NSW 2145, Australia",7:34,7:34
+4,Delivery #234954 to UPA MELROSE(UPA MELROSE),12,7:27,7:27,5,"Jacaranda Lodge, 123-157 Bungaree Rd, Pendle Hill NSW 2145, Australia",7:34,7:34
+5,Delivery #234868 to SUTCLIFFE SEVEN HILLS PLAZA(SUTCLIFFE SEVEN HILLS PLAZA) ref #143583,16,7:41,7:41,5,"Seven Hills NSW 2147, Australia",7:48,7:48
+6,Delivery #227668 to SUTCLIFFE SEVEN HILLS PLAZA(SUTCLIFFE SEVEN HILLS PLAZA) ref #143583,16,7:46,7:46,0,"Seven Hills NSW 2147, Australia",7:48,7:48
+7,Delivery #227672 to IVANS BUTCHERY BELLA VISTA(IVANS BUTCHERY BELLA VISTA) ref #143532,44,7:52,7:52,0,"Circa Retail, 1 Circa Boulevarde, Bella Vista NSW 2153, Australia",8:04,8:04
+8,Delivery #234872 to IVANS BUTCHERY BELLA VISTA(IVANS BUTCHERY BELLA VISTA) ref #143532,44,7:52,7:52,5,"Circa Retail, 1 Circa Boulevarde, Bella Vista NSW 2153, Australia",8:04,8:04
+9,Delivery #234977 to ENIGMA AT THE PIAZZA(ENIGMA AT THE PIAZZA),50,8:07,8:07,5,"6-14 Castle St, Castle Hill NSW 2154, Australia",8:25,8:25
+10,Delivery #234975 to IL NIDO(IL NIDO),11,8:13,8:13,5,"Suite 35/3 Terminus St, Castle Hill NSW 2154, Australia",8:33,8:33
+11,Delivery #227674 to PRIME QUALITY CATERING - NTH ROCKS(PRIME QUALITY CATERING - NTH ROCKS) ref #143530,227,8:29,8:29,0,"328/336 N Rocks Rd, North Rocks NSW 2151, Australia",8:50,8:50
+12,Delivery #234874 to PRIME QUALITY CATERING - NTH ROCKS(PRIME QUALITY CATERING - NTH ROCKS) ref #143530,227,8:29,8:29,5,"328/336 N Rocks Rd, North Rocks NSW 2151, Australia",8:50,8:50
+13,Delivery #234921 to UNITED MEAT CO PTY LTD RYDALMERE(UNITED MEAT CO PTY LTD RYDALMERE) ref #143475,61,8:43,8:43,5,"Rydalmere NSW 2116, Australia",9:09,9:09
+14,Delivery #234906 to FUDA GROUP PTY LTD(FUDA GROUP PTY LTD) ref #143589,243,8:54,8:54,5,"45 Day St N, Silverwater NSW 2128, Australia",9:22,9:22
+15,Delivery #234986 to CONCERTO(CONCERTO),9,9:03,9:03,5,"21 Bennelong Pkwy, Wentworth Point NSW 2127, Australia",9:31,9:31
+16,Delivery #234887 to SYDNEY LAMBS PTY LTD(SYDNEY LAMBS PTY LTD) ref #143502,40,9:16,9:16,5,"38 Birnie Ave, Lidcombe NSW 2141, Australia",9:44,9:44
+17,Delivery #234903 to DARWICHE BUTCHERY- GREENACRE(DARWICHE BUTCHERY- GREENACRE) ref #143482,30,9:30,9:30,5,"3/12 Boronia Rd, Greenacre NSW 2190, Australia",10:02,10:02
+18,Delivery #234901 to AL ZAEEM GREENACRE(AL ZAEEM GREENACRE) ref #143483,187,9:35,9:35,5,"136 Waterloo Rd, Greenacre NSW 2190, Australia",10:08,10:08
+19,Delivery #234850 to THAI SON BUTCHERY(THAI SON BUTCHERY) ref #2,58,9:47,9:47,5,"53 Bankstown City Plaza, Bankstown NSW 2200, Australia",10:23,10:23
+20,Depot,,10:02,10:02,0,"22 George Young St, Regents Park NSW 2143, Australia",10:38,10:38
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #227659 to AL RASHEED GRILLS PTY LTD(AL RASHEED GRILLS PTY LTD) ref #143593,240,7:13,7:13,0,"Merrylands NSW 2160, Australia",7:16,7:16
+3,Delivery #234859 to AL RASHEED GRILLS PTY LTD(AL RASHEED GRILLS PTY LTD) ref #143593,240,7:13,7:13,5,"Merrylands NSW 2160, Australia",7:16,7:16
+4,Delivery #227676 to BABYLON BUTCHERY(BABYLON BUTCHERY) ref #143587,51,7:27,7:27,0,"35A The Crescent, Fairfield NSW 2165, Australia",7:34,7:34
+5,Delivery #234876 to BABYLON BUTCHERY(BABYLON BUTCHERY) ref #143587,51,7:27,7:27,5,"35A The Crescent, Fairfield NSW 2165, Australia",7:34,7:34
+6,Delivery #227684 to THEO'S CECINAS - FAIRFIELD WEST(THEO'S CECINAS - FAIRFIELD WEST) ref #143504,80,7:35,7:35,0,"205 Hamilton Rd, Fairfield NSW 2165, Australia",7:42,7:42
+7,Delivery #234884 to THEO'S CECINAS - FAIRFIELD WEST(THEO'S CECINAS - FAIRFIELD WEST) ref #143504,80,7:35,7:35,5,"205 Hamilton Rd, Fairfield NSW 2165, Australia",7:42,7:42
+8,Delivery #227682 to PAPANDREA FINE FOODS PTY LTD(PAPANDREA FINE FOODS PTY LTD) ref #143542,51,7:49,7:49,0,"Unit 4/2 Frank St, Wetherill Park NSW 2164, Australia",7:58,7:58
+9,Delivery #234882 to PAPANDREA FINE FOODS PTY LTD(PAPANDREA FINE FOODS PTY LTD) ref #143542,51,7:49,7:49,5,"Unit 4/2 Frank St, Wetherill Park NSW 2164, Australia",7:58,7:58
+10,Delivery #234970 to IL PIATTO(IL PIATTO),60,8:02,8:02,5,"Wallgrove Rd, Horsley Park NSW 2175, Australia",8:15,8:15
+11,Delivery #227667 to SUTCLIFFE PLUMPTON(SUTCLIFFE PLUMPTON) ref #143585,45,8:19,8:19,0,"M2/260 Jersey Rd, Plumpton NSW 2761, Australia",8:32,8:32
+12,Delivery #234867 to SUTCLIFFE PLUMPTON(SUTCLIFFE PLUMPTON) ref #143585,45,8:19,8:19,5,"M2/260 Jersey Rd, Plumpton NSW 2761, Australia",8:32,8:32
+13,Delivery #227664 to NEDS BUTCHERY(NEDS BUTCHERY) ref #143554,145,8:36,8:36,0,"71 Queen St, St Marys NSW 2760, Australia",8:50,8:50
+14,Delivery #234864 to NEDS BUTCHERY(NEDS BUTCHERY) ref #143554,145,8:36,8:36,5,"71 Queen St, St Marys NSW 2760, Australia",8:50,8:50
+15,"Minto NSW 2566, Australia",,9:17,9:17,0,"Minto NSW 2566, Australia",9:30,9:30
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234984 to CAFE ON MONASH - FBU(CAFE ON MONASH - FBU),15,7:21,7:21,5,"13 Monash Rd, Gladesville NSW 2111, Australia",7:24,7:24
+3,Delivery #234991 to SALT PEPPER NUTMEG FBU(SALT PEPPER NUTMEG FBU),13,7:41,7:41,5,"110 Pacific Hwy, Roseville NSW 2069, Australia",7:46,7:46
+4,Delivery #234893 to LE WOOLF(LE WOOLF) ref #143517,262,8:02,8:02,5,"Old Pittwater Rd, Brookvale NSW 2100, Australia",8:08,8:08
+5,Delivery #227693 to LE WOOLF(LE WOOLF) ref #143517,262,8:07,8:07,0,"Old Pittwater Rd, Brookvale NSW 2100, Australia",8:08,8:08
+6,Delivery #234992 to ALEXANDER AGED CARE(ALEXANDER AGED CARE),16,8:09,8:09,5,"Spitak Apartments, 16 Victor Rd, Brookvale NSW 2100, Australia",8:16,8:16
+7,Delivery #227689 to DEE WHY MEAT MARKET(DEE WHY MEAT MARKET) ref #143474,89,8:16,8:16,0,"8 Fisher Rd, Dee Why NSW 2099, Australia",8:24,8:24
+8,Delivery #234889 to DEE WHY MEAT MARKET(DEE WHY MEAT MARKET) ref #143474,89,8:16,8:16,5,"8 Fisher Rd, Dee Why NSW 2099, Australia",8:24,8:24
+9,Delivery #227694 to PLATEAU FINE QUALITY MEATS(PLATEAU FINE QUALITY MEATS) ref #2,74,8:28,8:28,0,"4e/65 Veterans Parade, Collaroy Plateau NSW 2097, Australia",8:37,8:37
+10,Delivery #234894 to PLATEAU FINE QUALITY MEATS(PLATEAU FINE QUALITY MEATS) ref #2,74,8:28,8:28,5,"4e/65 Veterans Parade, Collaroy Plateau NSW 2097, Australia",8:37,8:37
+11,Delivery #234993 to BELROSE COUNTRY(BELROSE COUNTRY),21,8:49,8:49,5,"2 Dawes Rd, Belrose NSW 2085, Australia",9:01,9:01
+12,Delivery #227690 to FORESTWAY FRESH(FORESTWAY FRESH) ref #143488,113,8:59,8:59,0,"2 Myoora Rd, Terrey Hills NSW 2084, Australia",9:12,9:12
+13,Delivery #234890 to FORESTWAY FRESH(FORESTWAY FRESH) ref #143488,113,8:59,8:59,5,"2 Myoora Rd, Terrey Hills NSW 2084, Australia",9:12,9:12
+14,Delivery #234996 to KARI COURT(KARI COURT),27,9:12,9:12,5,"251-257 Mona Vale Rd, St. Ives NSW 2075, Australia",9:24,9:24
+15,Delivery #234919 to TENDER GOURMET BUTCHERY MACQUARIE(TENDER GOURMET BUTCHERY MACQUARIE) ref #2,240,9:28,9:28,5,"Cnr Herring Rd &, Waterloo Rd, North Ryde NSW 2113, Australia",9:41,9:41
+16,Delivery #234978 to THE LAMP POST(THE LAMP POST),47,10:08,10:08,5,"26 Stony Creek Rd, Shanes Park NSW 2747, Australia",10:18,10:18
+17,"Shanes Park NSW 2747, Australia",,10:18,10:18,0,"Shanes Park NSW 2747, Australia",10:25,10:25
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234849 to HOMEBUSH EXPORT MEAT-t97073500(HOMEBUSH EXPORT MEAT-t97073500) ref #143521,69,7:13,7:13,5,"50 Harley Cres, Condell Park NSW 2200, Australia",7:13,7:13
+3,Delivery #234842 to THE BUTCHERS PANTRY(THE BUTCHERS PANTRY) ref #143507,189,7:30,7:30,5,"88 Anderson Ave, Panania NSW 2213, Australia",7:32,7:32
+4,Delivery #234960 to CHAMA MENAI(CHAMA MENAI),34,7:50,7:50,5,"15/80 Allison Cres, Menai NSW 2234, Australia",7:54,7:54
+5,Delivery #234936 to FERNDALE GARDENS(FERNDALE GARDENS),36,8:11,8:11,5,"33 Jersey Ave, Mortdale NSW 2223, Australia",8:16,8:16
+6,Delivery #234847 to STATION MEATS(STATION MEATS) ref #143500,20,8:21,8:21,5,"12/225 Forest Rd, Hurstville NSW 2220, Australia",8:28,8:28
+7,Delivery #234843 to CHENG XING MEAT(CHENG XING MEAT) ref #143458,142,8:28,8:28,5,"192 Forest Rd, Hurstville NSW 2220, Australia",8:35,8:35
+8,Delivery #234900 to VIOLA BUTCHERY(VIOLA BUTCHERY) ref #143509,99,8:41,8:41,5,"96 Kingsgrove Rd, Belmore NSW 2192, Australia",8:50,8:50
+9,Delivery #234904 to Q J MEATS(Q J MEATS) ref #143460,112,8:50,8:50,5,"240 Beamish St, Campsie NSW 2194, Australia",9:00,9:00
+10,Delivery #234845 to ROCKDALE HALAL MEATS(ROCKDALE HALAL MEATS) ref #143478,182,9:04,9:04,5,"18 Frederick St, Rockdale NSW 2216, Australia",9:17,9:17
+11,Delivery #234846 to SALAAM NAMASTE HALAL BUTCHERY(SALAAM NAMASTE HALAL BUTCHERY) ref #143562,40,9:12,9:12,5,"20 Station St, Kogarah NSW 2217, Australia",9:25,9:25
+12,Delivery #234844 to RAFFLE KINGS OF MONTEREY(RAFFLE KINGS OF MONTEREY) ref #143465,30,9:22,9:22,5,"62 Scarborough St, Monterey NSW 2217, Australia",9:36,9:36
+13,Delivery #234962 to NICHOLAS & SAVILLE(NICHOLAS & SAVILLE),40,9:35,9:35,5,"2/3 Box Rd, Taren Point NSW 2229, Australia",9:51,9:51
+14,Delivery #234959 to CHAMA CARINGBAH(CHAMA CARINGBAH),80,9:44,9:44,5,"shop 2/277 Kingsway, Caringbah NSW 2229, Australia",10:01,10:01
+15,Delivery #234857 to MAN LIN WAH CHINESE RESTAURANT(MAN LIN WAH CHINESE RESTAURANT) ref #143448,96,9:54,9:54,5,"601 Kingsway, Miranda NSW 2228, Australia",10:13,10:13
+16,Delivery #227657 to MAN LIN WAH CHINESE RESTAURANT(MAN LIN WAH CHINESE RESTAURANT) ref #143448,96,9:59,9:59,0,"601 Kingsway, Miranda NSW 2228, Australia",10:13,10:13
+17,Delivery #234965 to LA CUCINA GYMEA(LA CUCINA GYMEA),23,10:02,10:02,5,"14 Gymea Bay Rd, Gymea NSW 2227, Australia",10:23,10:23
+18,Delivery #234858 to RUDIS CONTINENTAL(RUDIS CONTINENTAL) ref #143496,37,10:09,10:09,5,"148 Oak Rd, Kirrawee NSW 2232, Australia",10:31,10:31
+19,Delivery #227658 to RUDIS CONTINENTAL(RUDIS CONTINENTAL) ref #143496,37,10:14,10:14,0,"148 Oak Rd, Kirrawee NSW 2232, Australia",10:31,10:31
+20,Delivery #234853 to COOTA VALLEY MEATS(COOTA VALLEY MEATS) ref #143567,50,10:23,10:23,5,"1053 Old Princes Hwy, Engadine NSW 2233, Australia",10:45,10:45
+21,Delivery #227653 to COOTA VALLEY MEATS(COOTA VALLEY MEATS) ref #143567,50,10:28,10:28,0,"1053 Old Princes Hwy, Engadine NSW 2233, Australia",10:45,10:45
+22,"Thirroul NSW 2515, Australia",,11:01,11:01,0,"Thirroul NSW 2515, Australia",11:19,11:19
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234907 to MEAT MASTER - AUBURN(MEAT MASTER - AUBURN) ref #143556,80,7:07,7:07,5,"Auburn Central, 57-59 Queen St, Auburn NSW 2144, Australia",7:08,7:08
+3,Delivery #234905 to CENTRO MEAT MASTER(CENTRO MEAT MASTER) ref #143558,100,7:12,7:12,5,"Harrow Rd & Queen St, Auburn NSW 2144, Australia",7:13,7:13
+4,Delivery #227663 to JONE FOODS(JONE FOODS) ref #143551,94,7:36,7:36,0,"4/4-6 Wiltona Pl, Girraween NSW 2145, Australia",7:38,7:38
+5,Delivery #234863 to JONE FOODS(JONE FOODS) ref #143551,94,7:36,7:36,5,"4/4-6 Wiltona Pl, Girraween NSW 2145, Australia",7:38,7:38
+6,Delivery #227665 to RONG HUA BUTCHERY - BLACKTOWN(RONG HUA BUTCHERY - BLACKTOWN) ref #143580,185,7:51,7:51,0,"57 Main St, Blacktown NSW 2148, Australia",7:56,7:56
+7,Delivery #234865 to RONG HUA BUTCHERY - BLACKTOWN(RONG HUA BUTCHERY - BLACKTOWN) ref #143580,185,7:51,7:51,5,"57 Main St, Blacktown NSW 2148, Australia",7:56,7:56
+8,Delivery #227661 to FARM FRESH MEATS - BLACKTOWN 813(FARM FRESH MEATS - BLACKTOWN 813) ref #143473,111,7:59,7:59,0,"17 Patrick St, Blacktown NSW 2148, Australia",8:03,8:03
+9,Delivery #234861 to FARM FRESH MEATS - BLACKTOWN 813(FARM FRESH MEATS - BLACKTOWN 813) ref #143473,111,7:59,7:59,5,"17 Patrick St, Blacktown NSW 2148, Australia",8:03,8:03
+10,Delivery #234982 to CANDELORI'S(CANDELORI'S),44,8:21,8:21,5,"685 The Horsley Dr, Smithfield NSW 2164, Australia",8:28,8:28
+11,Delivery #234877 to HILAL MEAT(HILAL MEAT) ref #143501,272,8:34,8:34,5,"4/7 Birmingham Ave, Villawood NSW 2163, Australia",8:42,8:42
+12,Depot,,8:47,8:47,0,"22 George Young St, Regents Park NSW 2143, Australia",8:55,8:55
+1,Start at depot ,0,7:00,7:00,0,"22 George Young St, Regents Park NSW 2143, Australia",7:00,7:00
+2,Delivery #234870 to DELLWOOD BUTCHERY AND DELI(DELLWOOD BUTCHERY AND DELI) ref #143499,46,7:07,7:07,5,"12 Dellwood St, South Granville NSW 2142, Australia",7:07,7:07
+3,Delivery #227670 to DELLWOOD BUTCHERY AND DELI(DELLWOOD BUTCHERY AND DELI) ref #143499,46,7:12,7:12,0,"12 Dellwood St, South Granville NSW 2142, Australia",7:07,7:07
+4,Delivery #233661 to PARRAMATTA BUTCHERY - OPENS 9 AM(PARRAMATTA BUTCHERY - OPENS 9 AM) ref #143506,136,7:19,7:19,0,"125 Church St, Parramatta NSW 2150, Australia",7:22,7:22
+5,Delivery #227673 to PARRAMATTA BUTCHERY - OPENS 9 AM(PARRAMATTA BUTCHERY - OPENS 9 AM) ref #143506,136,7:19,7:19,0,"125 Church St, Parramatta NSW 2150, Australia",7:22,7:22
+6,Delivery #234873 to PARRAMATTA BUTCHERY - OPENS 9 AM(PARRAMATTA BUTCHERY - OPENS 9 AM) ref #143506,136,7:19,7:19,5,"125 Church St, Parramatta NSW 2150, Australia",7:22,7:22
+7,Delivery #227669 to THE VILLAGE PANTRY(THE VILLAGE PANTRY) ref #143539,341,7:31,7:31,0,"125 Smith St, Pendle Hill NSW 2145, Australia",7:37,7:37
+8,Delivery #234869 to THE VILLAGE PANTRY(THE VILLAGE PANTRY) ref #143539,341,7:31,7:31,5,"125 Smith St, Pendle Hill NSW 2145, Australia",7:37,7:37
+9,Delivery #234972 to JO' CATERING(JO' CATERING),33,8:00,8:00,5,"Somerset St, Kingswood NSW 2747, Australia",8:05,8:05
+10,Delivery #234866 to SUTCLIFFE NEPEAN SQ(SUTCLIFFE NEPEAN SQ) ref #143586,37,8:10,8:10,5,"121 Station St, Penrith NSW 2750, Australia",8:15,8:15
+11,Delivery #227666 to SUTCLIFFE NEPEAN SQ(SUTCLIFFE NEPEAN SQ) ref #143586,37,8:15,8:15,0,"121 Station St, Penrith NSW 2750, Australia",8:15,8:15
+12,Delivery #234969 to PIETRO RESTAURANT(PIETRO RESTAURANT),23,8:44,8:44,5,"41 Fourteenth St, Warragamba NSW 2752, Australia",8:45,8:45
+13,Delivery #227662 to GOURMET MEAT COMPANY PTY LTD(GOURMET MEAT COMPANY PTY LTD) ref #143590,44,9:16,9:16,0,"116 Old Bathurst Rd, Emu Heights NSW 2750, Australia",9:14,9:14
+14,Delivery #234862 to GOURMET MEAT COMPANY PTY LTD(GOURMET MEAT COMPANY PTY LTD) ref #143590,44,9:16,9:16,5,"116 Old Bathurst Rd, Emu Heights NSW 2750, Australia",9:14,9:14
+15,Delivery #234971 to LAKESIDE RESTAURANT(LAKESIDE RESTAURANT),19,9:35,9:35,5,"Gate A, Old Castlereagh Rd, Castlereagh NSW 2749, Australia",9:33,9:33
+16,"Penrith NSW 2750, Australia",,9:50,9:50,0,"Penrith NSW 2750, Australia",9:47,9:47
+1,Start at depot ,0,7:51,7:51,0,"22 George Young St, Auburn NSW 2144, Australia",7:51,7:51
+2,Delivery #241998 to HILAL MEAT(HILAL MEAT) ref #143501,272,8:00,8:00,15,"4/7 Birmingham Ave, Villawood NSW 2163, Australia",8:00,8:00
+3,Delivery #241997 to BABYLON BUTCHERY(BABYLON BUTCHERY) ref #143587,51,8:21,8:21,15,"35A The Crescent, Fairfield NSW 2165, Australia",8:22,8:22
+4,Delivery #242005 to THEO'S CECINAS - FAIRFIELD WEST(THEO'S CECINAS - FAIRFIELD WEST) ref #143504,80,8:39,8:39,15,"205 Hamilton Rd, Fairfield NSW 2165, Australia",8:40,8:40
+5,Delivery #242103 to CANDELORI'S(CANDELORI'S),44,8:59,8:59,15,"685 The Horsley Dr, Smithfield NSW 2164, Australia",9:01,9:01
+6,Delivery #241990 to THE VILLAGE PANTRY(THE VILLAGE PANTRY) ref #143539,341,9:22,9:22,15,"125 Smith St, Pendle Hill NSW 2145, Australia",9:27,9:27
+7,Delivery #241984 to JONE FOODS(JONE FOODS) ref #143551,94,9:42,9:42,15,"4/4-6 Wiltona Pl, Girraween NSW 2145, Australia",9:47,9:47
+8,Delivery #241986 to RONG HUA BUTCHERY - BLACKTOWN(RONG HUA BUTCHERY - BLACKTOWN) ref #143580,185,10:08,10:08,15,"57 Main St, Blacktown NSW 2148, Australia",10:15,10:15
+9,Delivery #241982 to FARM FRESH MEATS - BLACKTOWN 813(FARM FRESH MEATS - BLACKTOWN 813) ref #143473,111,10:25,10:25,15,"17 Patrick St, Blacktown NSW 2148, Australia",10:32,10:32
+10,Delivery #241989 to SUTCLIFFE SEVEN HILLS PLAZA(SUTCLIFFE SEVEN HILLS PLAZA) ref #143583,16,10:46,10:46,15,"Seven Hills NSW 2147, Australia",10:54,10:54
+11,Delivery #241993 to IVANS BUTCHERY BELLA VISTA(IVANS BUTCHERY BELLA VISTA) ref #143532,44,11:07,11:07,15,"Circa Retail, 1 Circa Boulevarde, Bella Vista NSW 2153, Australia",11:20,11:20
+12,Delivery #241988 to SUTCLIFFE PLUMPTON(SUTCLIFFE PLUMPTON) ref #143585,45,11:35,11:35,15,"M2/260 Jersey Rd, Plumpton NSW 2761, Australia",11:52,11:52
+13,Delivery #242099 to THE LAMP POST(THE LAMP POST),47,12:02,12:02,15,"26 Stony Creek Rd, Shanes Park NSW 2747, Australia",12:19,12:19
+14,"Shanes Park NSW 2747, Australia",0,12:21,12:21,0,"Shanes Park NSW 2747, Australia",12:36,12:36
+1,"Start at Oriaon Springfield Central, 1 Main St, Springfield Central QLD 4300, Australia",,8:45,8:45,0,"Oriaon Springfield Central, 1 Main St, Springfield Central QLD 4300, Australia",8:45,8:45
+2,Pickup #254053 from Yamanto LCC ref #CO13,,9:05,9:13,3,"Warwick Rd & Cunningham Highway, Yamanto QLD 4305, Australia",9:01,9:01
+3,Pickup #254054 from Brookwater LCC ref #CO13,,9:26,9:35,3,"2 Tournament Dr, Brookwater QLD 4300, Australia",9:22,9:22
+4,Pickup #254055 from Springfield Metro LCC ref #CO13,,9:35,9:45,3,"1 Springfield Lakes Blvd, Springfield Lakes QLD 4300, Australia",9:31,9:31
+5,Delivery #254056 to Main (main) ref #CO13,,10:15,10:25,21,"Raymond Terrace, South Brisbane QLD 4101, Australia",10:05,10:05
+6,Pickup #254057 from Yamanto LCC ref #CO13,,11:15,11:25,3,"Warwick Rd & Cunningham Highway, Yamanto QLD 4305, Australia",11:07,11:07
+7,Pickup #254058 from Brookwater LCC ref #CO13,,11:40,11:50,3,"2 Tournament Dr, Brookwater QLD 4300, Australia",11:28,11:28
+8,Pickup #254059 from Springfield Central LCC ref #CO13,,11:50,12:00,3,"1 Main Street Springfield, Springfield Central QLD 4300, Australia",11:37,11:37
+9,Delivery #254060 to Mater Private Hospital Springfield(MPHS) ref #CO13,,12:05,12:15,1,"30 Health Care Dr, Springfield Central QLD 4300, Australia",11:45,11:45
+10,Pickup #254061 from Yamanto LCC ref #CO13,,12:35,12:43,3,"Warwick Rd & Cunningham Highway, Yamanto QLD 4305, Australia",12:06,12:06
+11,Pickup #254062 from Brookwater LCC ref #CO13,,12:56,13:05,3,"2 Tournament Dr, Brookwater QLD 4300, Australia",12:27,12:27
+12,Pickup #254063 from Springfield Metro LCC ref #CO13,,13:05,13:15,3,"1 Springfield Lakes Blvd, Springfield Lakes QLD 4300, Australia",12:36,12:36
+13,Pickup #254064 from Springfield Central LCC ref #CO13,,13:15,13:25,3,"1 Main Street Springfield, Springfield Central QLD 4300, Australia",12:45,12:45
+14,Delivery #254065 to Mater Private Hospital Springfield(MPHS) ref #CO13,,13:25,13:35,31,"30 Health Care Dr, Springfield Central QLD 4300, Australia",12:53,12:53
+15,Pickup #254066 from Mater Private Hospital Springfield ref #CO13,,14:05,14:15,3,"30 Health Care Dr, Springfield Central QLD 4300, Australia",13:24,13:24
+16,Pickup #254067 from Inala LCC ref #CO13,,14:30,14:40,3,"119 Biota St, Inala QLD 4077, Australia",13:46,13:46
+17,Pickup #254068 from Grow Medical Oxley ref #CO13,,14:45,14:55,3,"169 Seventeen Mile Rocks Rd, Oxley QLD 4075, Australia",13:59,13:59
+18,Pickup #254069 from Sherwood LCC ref #CO13,,15:00,15:10,3,"9/600 Sherwood Rd, Sherwood QLD 4075, Australia",14:09,14:09
+19,Delivery #254070 to Main (main) ref #CO13,,15:35,15:45,1,"Raymond Terrace, South Brisbane QLD 4101, Australia",14:29,14:29
+20,Delivery #254071 to Springfield Central LCC(SPL) ref #CO13,,16:45,16:55,1,"1 Main Street Springfield, Springfield Central QLD 4300, Australia",15:00,15:00
